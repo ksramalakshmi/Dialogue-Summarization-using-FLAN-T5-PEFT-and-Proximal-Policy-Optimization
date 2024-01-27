@@ -5,7 +5,7 @@ This project aims to discover the concepts surrounding the pre-trained LLMs as a
 
 <h2>Updations</h2>
 The notebook module imports when followed in the same order, help in successful download of the rouge_score module, which poses UTF-8 encoding and dependency problems with the current Python 3.10 version.
-
+<br/>
 <br/>
 Note: I have done the entire implementation in Google Colab, as against the advised cloud resources for better compute resources to train the LLMs. Hence, the results have a huge scope for improvisation when trained for longer duration with GPUs of higher RAM and the whole dataset instead of subsampling.
 
